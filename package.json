@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Mlinetles/MlinetlesHyperDocs#readme",
   "dependencies": {
+    "vue-template-compiler": "^2.7.16",
     "vuepress": "^1.9.10"
   }
 }
