@@ -10,15 +10,15 @@ module.exports = {
                 ]
             }
         ],
-        sidebar: [
-            ['/', '首页'],
-            {
-                title: 'mnd文件',
-                path: '/mnd/',
-                children: [
-                    ['./format', 'mnd格式']
-                ]
-            }
-        ]
+        sidebar: {
+            '/mnd/': [
+                ['', 'mnd文件'],
+                ['format', 'mnd格式']
+            ],
+            '/': [
+                ['', '首页'],
+                ['/mnd/', 'mnd文件']
+            ]
+        }
     }
 }
