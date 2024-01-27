@@ -20,5 +20,10 @@ module.exports = {
                 ['/mnd/', 'mnd文件']
             ]
         }
+    },
+    locales: {
+        '/': {
+            lang: 'zh-CN'
+        }
     }
 }
