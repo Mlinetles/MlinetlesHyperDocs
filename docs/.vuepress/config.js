@@ -8,6 +8,15 @@ module.exports = {
                 items: [
                     { text: 'mnd介绍', 'link': '/mnd/' }
                 ]
+            },
+            {
+                text: 'Fabric',
+                items: [
+                    {
+                        text: '首页',
+                        link: '/fabric/'
+                    }
+                ]
             }
         ],
         sidebar: {
