@@ -11,7 +11,7 @@ module.exports = {
             }
         ],
         sidebar: {
-            'fabric': [
+            '/fabric/': [
                 ['', '首页'],
                 ['/sg/', '源生成器']
             ],
