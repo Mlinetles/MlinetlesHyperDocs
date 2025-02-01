@@ -13,7 +13,7 @@ module.exports = {
         sidebar: {
             '/fabric/': [
                 ['', '首页'],
-                ['/sg/', '源生成器']
+                ['sg', '源生成器']
             ],
             '/mnd/': [
                 ['', 'mnd文件'],
